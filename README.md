@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DaSquirrelGuy
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity with C#
+- 🌱 I’m currently learning Unity and C#
